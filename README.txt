@@ -1,5 +1,3 @@
-NorthStar Dataset
-
 This dataset includes:
 
 - inconsistent categorical values
